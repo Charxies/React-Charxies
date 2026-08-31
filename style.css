@@ -1,1 +1,17 @@
 
+html {
+    height: 100%;
+    background: 50% 50% no-repeat
+}
+body {
+    font-family: 'Times New Roman', serif;
+    background-color: #ffffff;
+}
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 3px solid #fcba03;
+    margin: 1em 0;
+    padding: 0;
+}
