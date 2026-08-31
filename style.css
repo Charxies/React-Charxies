@@ -4,8 +4,13 @@ html {
     background: 50% 50% no-repeat
 }
 body {
+    color: white;
     font-family: 'Times New Roman', serif;
-    background-color: #ffffff;
+    background-color: #2d2e30;
+}
+h2{
+    display: block;
+    color: #a5a9b0;
 }
 hr {
     display: block;
@@ -14,4 +19,7 @@ hr {
     border-top: 3px solid #fcba03;
     margin: 1em 0;
     padding: 0;
+}
+a{
+    color: white;
 }
